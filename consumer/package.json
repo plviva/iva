@@ -1,0 +1,11 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "description": "Full-Stack consumer",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "nodeunit test/tests.js"
+  },
+  "author": "Patrice Le Vexier <plevexier@gmail.com> (http://www.patricelevexier.com/)",
+  "license": "ISC"
+}
